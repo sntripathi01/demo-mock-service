@@ -1,0 +1,11 @@
+{
+  "success": "Data Fetched.",
+  "error": "",
+  "status": "0",
+  "data": {
+    "version": {
+      "stableVersion": 3,
+      "currentVersion": 4
+    }
+  }
+}
