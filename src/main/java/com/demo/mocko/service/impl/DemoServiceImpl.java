@@ -11,7 +11,7 @@ import com.demo.mocko.service.DemoService;
 import com.demo.mocko.service.model.ServiceResponse;
 import com.demo.mocko.service.model.VersionResponse;
 
-@Component
+@Component("DemoServiceImpl")
 public class DemoServiceImpl implements DemoService {
 
 	@Autowired
